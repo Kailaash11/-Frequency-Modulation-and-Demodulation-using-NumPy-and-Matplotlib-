@@ -33,7 +33,14 @@ __Algorithm:__
 6. Plot the Signals: Use Matplotlib to plot the message signal, carrier signal, and modulated signal.
 
 __Programme:__
+![WhatsApp Image 2026-04-09 at 8 39 47 AM](https://github.com/user-attachments/assets/11a3291f-653f-4b19-8ced-5fc29f384f54)
+
+![WhatsApp Image 2026-04-09 at 8 39 59 AM](https://github.com/user-attachments/assets/cf4853ea-91cd-4a1c-b489-4618903d9a09)
+
 
 __Output:__
+![WhatsApp Image 2026-04-09 at 8 39 34 AM](https://github.com/user-attachments/assets/eca23f99-8375-46b1-8cc0-355d3c9f4347)
+
 
 __Result:__
+![WhatsApp Image 2026-04-09 at 8 42 20 AM](https://github.com/user-attachments/assets/89b1248e-bfc7-404c-991a-cabe82b9162f)
